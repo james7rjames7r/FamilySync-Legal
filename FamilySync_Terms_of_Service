@@ -1,6 +1,6 @@
 FamilySync
 Terms of Service
-Effective Date: March 18, 2026
+Effective Date: April 5, 2026
 
 Please read these Terms of Service (“Terms”) carefully before using the FamilySync mobile application (the “App”) operated by Primitive Edge LLC (“we,” “us,” or “our”). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 1. Eligibility
@@ -8,7 +8,7 @@ You must be at least 18 years of age to use the App. By using the App, you repre
 2. Account Registration
 To use certain features of the App, you must create an account. You agree to provide accurate, current, and complete information during registration, maintain the security of your password and account, promptly update your information if it changes, and accept responsibility for all activity that occurs under your account. We reserve the right to suspend or terminate your account if any information provided is found to be inaccurate, false, or in violation of these Terms.
 3. Description of the App
-FamilySync is a family coordination application that provides tools for household management, including budget and bill tracking, meal planning, shopping lists, media sharing, to-do lists, daily checklists, notes, medical information documentation and sharing, and calendar event management. Features may be added, modified, or removed at our discretion. 
+FamilySync is a family coordination application that provides tools for household management, including budget and bill tracking, meal planning, shopping lists, media sharing, to-do lists, daily checklists, notes, medical information documentation and sharing, budget management, file sharing, calendar event management, and more. Features may be added, modified, or removed at our discretion. 
 4. User Content
 4.1 Ownership
 Ownership of all content you create, upload, or share through the App (“User Content”) is shared with us and anyone in any Family group you are, have been, or become a member of. By using the App, you agree to these terms.
@@ -16,6 +16,10 @@ Ownership of all content you create, upload, or share through the App (“User C
 Content you add to a family group is visible to and may be edited by all members of that group. You are responsible for ensuring that you have the right to share any content you add to a family group. We are not responsible for how other family group members use shared content.
 4.3 Prohibited Content
 You agree not to upload, share, or transmit any content that is illegal, harmful, threatening, abusive, harassing, defamatory, or otherwise objectionable; infringes on any patent, trademark, trade secret, copyright, or other proprietary right of any party; contains software viruses or any other malicious code; or is intended to deceive or defraud other users.
+4.4 Content Privacy
+Content shared within a family group is visible to all members of the family group. Deleting an individual account or separation from the family group does not remove the content from the family group. You are responsible for ensuring the privacy of your content and only sharing what you are comfortable with.
+4.5 Data
+The App uses Google Firebase to function. This includes Firebase Firestore, Firebase Auth, Firebase Storage, and other Firebase services. All data input into the App uses 3rd party services to function. By using the App, you agree to the Terms of Service of all 3rd parties and accept full responsibility for any violations.   
 5. Acceptable Use
 You agree not to:
     • Use the App for any illegal or unauthorized purpose
