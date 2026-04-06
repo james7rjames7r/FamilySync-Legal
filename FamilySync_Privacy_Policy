@@ -1,6 +1,6 @@
 FamilySync
 Privacy Policy
-Effective Date: March 18, 2026
+Effective Date: April 5, 2026
 
 Primitive Edge LLC ("we," "us," or "our") operates the FamilySync mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 1. Information We Collect
@@ -8,10 +8,10 @@ Primitive Edge LLC ("we," "us," or "our") operates the FamilySync mobile applica
 We collect information that you voluntarily provide when you register for an account, create or modify your profile, or use the features of the App. This may include:
     • Name and email address used to create your account
     • Family group information, including names of family members you add
-    • Content you create within the App, such as calendar events, to-do lists, shopping lists, meal plans, notes, budget entries, daily checklists, medical information, and uploaded media
+    • Content you create within the App, such as calendar events, to-do lists, shopping lists, meal plans, notes, budget entries, daily checklists, medical information, budget details, and uploaded media
     • Communications you send through the App
 1.2 Firebase Services
-The App uses Google Firebase for authentication, cloud data storage (Firestore), and crash reporting (Crashlytics). Firebase may collect certain data as described in Google’s privacy policy. We do not use Firebase Analytics, Google AdMob, or any additional third-party analytics or advertising SDKs.
+The App uses Google Firebase for authentication, cloud data storage (Firestore and Firebase Storage), messaging (Firebase Cloud Messaging), and crash reporting (Crashlytics). Firebase may collect certain data as described in Google’s privacy policy. We do not use Firebase Analytics, Google AdMob, or any additional third-party analytics or advertising SDKs.
 2. How We Use Your Information
 We use the information we collect for the following purposes:
     • To provide, maintain, and improve the App and its features
@@ -26,13 +26,15 @@ We do not sell, trade, or rent your personal information to third parties. We ma
     • With service providers: We use Firebase (Google) to store and process your data. Google’s handling of this data is governed by Google’s privacy policy and data processing terms.
     • For legal purposes: We may disclose your information if required to do so by law or in response to valid legal requests by public authorities.
 4. Data Storage and Security
-Your data is stored using Google Firebase Cloud Firestore with industry-standard security practices. Data is synchronized across your devices and is accessible to members of your family group. We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
-5. Data Retention
-We retain your personal information for as long as your account is active or as needed to provide you with the App’s services. If you delete your account, we will delete or anonymize your personal data within 30 days, except where we are required to retain it for legal or regulatory purposes. Data shared within family groups may persist for other family members until they also delete it regardless of the 30 day period for an individual account.
+Your data is stored using Google Firebase Cloud Firestore and Storage with industry-standard security practices. Data is synchronized across your devices and is accessible to members of your family group. We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security. 
+5. Data Retention and Privacy
+5.1 We retain your personal information for as long as your account is active or as needed to provide you with the App’s services. If you delete your account, we will delete or anonymize your personal data within 30 days, except where we are required to retain it for legal or regulatory purposes. Data shared within family groups may persist for other family members until they also delete it regardless of the 30 day period for an individual account.
+5.2 Data shared within family groups becomes accessible to and the property of all other persons connected to the family group. Deleting an individual account does not delete the data from the family group. We, The App, will not delete the data an individual uploads to a family group even if an individual separates from the family group – this data is only deleted if the family unit is marked for deletion.
 6. Children’s Privacy
 The App is intended for users who are 18 years of age or older. We do not knowingly collect personal information from anyone under the age of 18. If you believe that a child under 18 has provided us with personal information, please contact us immediately.
 7. Third-Party Links and Services
-The App may contain links to third-party websites or services that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. We encourage you to review the privacy policies of any third-party services you access.
+7.1 The App may contain links to third-party websites or services that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. We encourage you to review the privacy policies of any third-party services you access.
+7.2  The App uses third party services to function. These services are briefly described in section 1 of this document. We, The App, assume no responsibility for the content, privacy policies, or practices of Google or the above outlined entities. Refer to their privacy policies for questions or concerns. 
 8. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy within the App and updating the "Effective Date" at the top of this document. Your continued use of the App after such changes constitutes your acceptance of the updated Privacy Policy.
 9. Contact Us
